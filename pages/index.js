@@ -56,10 +56,10 @@ export default function Home() {
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content={db.bg} />
-        <meta property="twitter:title" content={db.description} />
+        <meta property="twitter:title" content={db.title} />
         <meta
           property="twitter:description"
-          content="Quiz desenvolvido durante a imersão react da aluara."
+          content={db.description}
         />
         <meta property="twitter:image" content={db.bg} />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
