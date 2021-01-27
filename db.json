@@ -3,7 +3,7 @@
     "gitUrl":"https://github.com/feliperzbz/jahtreta-quiz",
     "vercelUrl":"https://jahtreta-quiz.feliperzbz.vercel.app",
     "title": "Quiz - The Beatles",
-    "description": "Teste seus conhecimentos sobre a banda que mudou o mundo da música",
+    "description": "Teste seus conhecimentos sobre a banda que mudou o mundo da música.",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
