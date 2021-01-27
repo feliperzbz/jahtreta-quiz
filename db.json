@@ -1,7 +1,9 @@
 {
     "bg": "https://images.alphacoders.com/439/439145.jpg",
-    "title": "Quiz Jahtreta",
-    "description": "As melhores bla bla bla bla",
+    "gitUrl":"https://github.com/feliperzbz/jahtreta-quiz",
+    "vercelUrl":"https://jahtreta-quiz.feliperzbz.vercel.app",
+    "title": "Quiz - The Beatles",
+    "description": "Teste seus conhecimentos sobre a banda que mudou o mundo da música",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
