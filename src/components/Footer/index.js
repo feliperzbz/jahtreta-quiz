@@ -1,8 +1,9 @@
+/* eslint-disable react/react-in-jsx-scope */
 import styled from 'styled-components';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
-  background-color: ${({ theme }) => theme.colors.secondary};
+  background-color: ${({ theme }) => theme.colors.primary};
   padding: 20px;
   display: flex;
   align-items: center;
@@ -12,7 +13,7 @@ const FooterWrapper = styled.footer`
     margin-right: 23px;
   }
   a {
-    color: white;
+    color: ${({ theme }) => theme.colors.primaryDark};
     text-decoration: none;
     transition: .3s;
     &:hover,

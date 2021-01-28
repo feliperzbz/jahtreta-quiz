@@ -1,44 +1,154 @@
 {
-    "bg": "https://images.alphacoders.com/439/439145.jpg",
+    "bg": "https://images3.alphacoders.com/418/41835.jpg",
     "gitUrl":"https://github.com/feliperzbz/jahtreta-quiz",
     "vercelUrl":"https://jahtreta-quiz.feliperzbz.vercel.app",
+    "placeholder": "https://media.giphy.com/media/9xHvJsXrfzPB6/giphy.gif",
     "title": "Quiz - The Beatles",
     "description": "Teste seus conhecimentos sobre a banda que mudou o mundo da música.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://image.shutterstock.com/image-vector/december-27-2016-vector-illustration-600w-543698302.jpg",
+        "title": "Qual desses músicos não fez parte da Banda?",
+        "description": "Uma bem tranquila!",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "John Lennon",
+          "Paul McCartney",
+          "Eric Clapton",
+          "George Harrison"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://image.shutterstock.com/image-photo/liverpool-england-uk-december-10-600w-576969109.jpg",
+        "title": "Como se chamava o local onde o grupo se apresentou pela primeira vez?",
+        "description": "Faz tempo!!!",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "The Cavern Club",
+           "Brick Lane",
+           "Pane Lane",
+           "Strawberry Fields",
+           "Canecão"
+        ]
+      },
+      {
+        "image": "https://image.shutterstock.com/image-illustration/caricatures-musician-characters-600w-1138661531.jpg",
+        "title": "Qual a primeira canção atingiu o primeiro lugar nas paradas dos Estados Unidos?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "She Loves You",
+           "Misery",
+           "Please Please Me",
+           "I Want to Hold Your Hand",
+           "I Saw Her Standing There"
+        ]
+      },
+      {
+        "image": "https://media.gettyimages.com/photos/rock-and-roll-band-the-beatles-perform-onstage-in-a-still-from-their-picture-id106494030?s=2048x2048",
+        "title": "Qual álbum possui apenas composições da dupla Lennon/McCarteney?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Help",
+           "A Hard Day's Night",
+           "Revolver",
+           "Sgt Pepper's Lonely Hearts Club Band",
+           "Rubber Soul"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/12jFJZ1PUtRINa/giphy.gif",
+        "title": "Qual canção foi regravada pelos Beatles e que depois ficaria imortalizada nessa cena?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Baby It's You",
+           "Roll Over Beethoven",
+           "Rock and Roll Music",
+           "Twist and Shout",
+           "Slow Down"
+        ]
+      },
+      {
+        "image": "https://media.gettyimages.com/photos/paul-mccartney-of-the-beatles-in-an-outtake-from-the-cover-session-picture-id513281010?s=2048x2048",
+        "title": "Qual música é a mais regravada?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Hey Jude",
+           "Yesterday",
+           "Let it Be",
+           "Something",
+           "All you need is Love"
+        ]
+      },
+      {
+        "image": "https://image.shutterstock.com/image-photo/yekaterinburg-russia-june-20-2019-600w-1434575552.jpg",
+        "title": "E o álbum mais vendido da banda?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Rubber Soul",
+           "Help!",
+           "Revolver",
+           "Sgt. Pepper’s Lonely Hearts Club Band",
+           "Abbey Road"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/lkdH8FmImcGoylv3t3/giphy.gif",
+        "title": "Segundo conspirólogos, qual membro da banda morreu e foi substituido?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "John",
+           "Ringo",
+           "George",
+           "Paul",
+           "George Martin"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/26gsxIrhQv6SwbJi8/giphy.gif",
+        "title": "Qual filme levou o Oscar de melhor trilha original?",
+        "description": "",
+        "answer": 4,
+        "alternatives": [
+           "A Hard Day's Night (1964)",
+           "Help! (1965)",
+           "Magical Mystery Tour(1967)",
+           "Yellow Submarine (1968)",
+           "Let It Be - The Beatles (1970)"
+        ]
+      },
+      {
+        "image": "https://media.gettyimages.com/photos/the-beatles-perform-at-the-seattle-centre-coliseum-in-seattle-during-picture-id109687521?s=2048x2048",
+        "title": "Quando foi anunciado o fim da Banda?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "1965",
+           "1970",
+           "1972",
+           "1975",
+           "1981"
         ]
       }
-    ],
+     ],
     "external": [
       ""
     ],
     "theme": {
       "colors": {
-        "primary": "#E87E04",
-        "secondary": "#F9690E",
+        "primary": "#8D99AE",
+        "primaryDark": "#546e7a",
+        "secondary": "#EDF2F4",
         "mainBg": "amber",
-        "contrastText": "#222f3e",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
+        "contrastText": "#263238",
+        "wrong": "#EF233C",
+        "success": "#06d6a0",
+        "disabled": "#eceff1"
       },
       "borderRadius": "4px"
     }
