@@ -35,6 +35,11 @@ Widget.Header = styled.header`
   * {
     margin: 0;
   }
+  a {
+    margin-right: 15px;
+    font-size: 16px;
+    color: ${({ theme }) => theme.colors.contrastText};
+  }
 `;
 
 Widget.Content = styled.div`
